@@ -36,3 +36,21 @@
 .monkey img {
     width: 160px;
 }
+
+.parrot {
+    height: 70px;
+}
+
+.fish {
+    margin-top: 40px;
+}
+
+.sheep {
+    margin-top: 40px;
+}
+
+.monkey-img {
+    display: flex;
+    align-items: center;
+}
+
